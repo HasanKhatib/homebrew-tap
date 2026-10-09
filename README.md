@@ -15,7 +15,7 @@ You can also install in one step without tapping first: `brew install HasanKhati
 
 | Name | What it does | Install |
 |---|---|---|
-| [hikma](https://github.com/HasanKhatib/hikma-ai) | Install, create, and publish reusable AI-agent skills from any repo (first release coming soon) | `brew install HasanKhatib/tap/hikma` |
+| [hikma](https://github.com/HasanKhatib/hikma-ai) | Install, create, and publish reusable AI-agent skills from any repo | `brew install HasanKhatib/tap/hikma` |
 
 ## How this repo works
 
