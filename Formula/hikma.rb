@@ -1,28 +1,28 @@
 class Hikma < Formula
   desc "Install, create, and publish reusable AI-agent skills from any repo"
   homepage "https://github.com/HasanKhatib/hikma-ai"
-  version "1.6.0"
+  version "1.7.0"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/HasanKhatib/hikma-ai/releases/download/v1.6.0/hikma_darwin_arm64.tar.gz"
-      sha256 "5fe3246ee51deb29a33f6d4eafc173a03c76b47d9a49034433a1e549f7c6b3c2"
+      url "https://github.com/HasanKhatib/hikma-ai/releases/download/v1.7.0/hikma_darwin_arm64.tar.gz"
+      sha256 "f1cad2fb3da5ce8d46565936a14486fee097ad8b126a7b27d7ae2d3b489c7e6a"
     end
     on_intel do
-      url "https://github.com/HasanKhatib/hikma-ai/releases/download/v1.6.0/hikma_darwin_amd64.tar.gz"
-      sha256 "ac767708ab8b71f2e8126eb00b3caa8f530444931b918fcbb2dfeb6743e74c16"
+      url "https://github.com/HasanKhatib/hikma-ai/releases/download/v1.7.0/hikma_darwin_amd64.tar.gz"
+      sha256 "b957927bff81babb9da7717d2577b22ee5d185359ecdee98e0ff0ec15517ff4e"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/HasanKhatib/hikma-ai/releases/download/v1.6.0/hikma_linux_arm64.tar.gz"
-      sha256 "cb93687fd1943c43f934ca7328cdb0436afa12db368d1afb68600eb542b11a68"
+      url "https://github.com/HasanKhatib/hikma-ai/releases/download/v1.7.0/hikma_linux_arm64.tar.gz"
+      sha256 "4615e87940336cb9b7a118ebbf177735f80d65376ab195711a607789f2a97111"
     end
     on_intel do
-      url "https://github.com/HasanKhatib/hikma-ai/releases/download/v1.6.0/hikma_linux_amd64.tar.gz"
-      sha256 "ab19c83e885b21bb4a64d3b492298c7ec91de379824d6e249712faf745c53ae5"
+      url "https://github.com/HasanKhatib/hikma-ai/releases/download/v1.7.0/hikma_linux_amd64.tar.gz"
+      sha256 "2532c637e96c5e21f9a5648ce9206be7d884c8c542687c59003cdada44bde6a8"
     end
   end
 
